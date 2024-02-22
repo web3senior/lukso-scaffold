@@ -29,8 +29,13 @@ contract Sample {
 ## Hardhat
 <a href="//twitter.com/atenyun">![X Badge](/assets/hardhat.png "HardHat")</a>
 
+
 ## How to run
 To deploy a contract on Lukso, open "index.html" in your browser and use the Universal Profile extension to deploy the contract. 🚀
+
+## Demo
+
+### https://lukso-scaffold-contract.vercel.app
 
 ### Contributing
 
