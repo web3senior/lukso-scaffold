@@ -1,5 +1,5 @@
-# Lukso scaffold
-Pure HTML and JS code can be used to deploy a smart contract on the Lukso blockchain by leveraging the UP browser extension.
+# Lukso Scaffold
+Pure HTML and JS code can be used to deploy a smart contract on the Lukso blockchain by leveraging the UP browser extension 🆙
 
 <a href="//lukso.network">![Lukso Badge](assets/badge-lukso.svg "Lukso")</a>
 
@@ -29,8 +29,8 @@ contract Sample {
 ## Hardhat
 <a href="//twitter.com/atenyun">![X Badge](/assets/hardhat.png "HardHat")</a>
 
-
-
+## How to run
+To deploy a contract on Lukso, open "index.html" in your browser and use the Universal Profile extension to deploy the contract. 🚀
 
 ### Contributing
 
