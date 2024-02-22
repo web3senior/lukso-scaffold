@@ -1,0 +1,15 @@
+{
+  "name": "lukso-scaffold",
+  "version": "1.0.0",
+  "description": "Pure HTML and JS code can be used to deploy a smart contract on the Lukso blockchain by leveraging the UP browser extension.",
+  "main": "index.js",
+  "scripts": {
+    "sass":"sass style.scss:style.css --watch"
+  },
+  "keywords": [],
+  "author": "Amir Rahimi <atenyun@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.71.1"
+  }
+}
